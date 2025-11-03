@@ -19,3 +19,4 @@ The multiple grids with different visual features, such as colour and transparen
 [04.media](04.media/index.html)
 
 This shows the visual meaning of media through its pixels and sound. Inspired by digital repetition and nostalgic signals, I used a static image and looping radio static to remind me of a fading broadcast. The pixel process showed how the structure can divide the memory, and the interactive sound loop highlighted engagement in media. I discovered that even small elements, such as colour blocks and the static hum, can suggest complex emotional textures. This experiment helped me understand more about how repetition shapes our insight into media.
+
